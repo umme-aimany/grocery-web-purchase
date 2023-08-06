@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  
+  <style>
+     .pop2{
+    position: relative;
+    background-color: yellow;
+} 
+ h1{
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    background-color: #efefef;
+    z-index: 10;} */
+p{
+    width: 230px;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+     background-color: #efefef; 
+}
+.pop2{
+    clear: left;
+}
+  </style>
+</head>
+
+<body>
+  <h1 >Position</h1>
+  <p>
+    <p class="pop1">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, eum eveniet! Voluptate amet architecto a nulla
+    doloribus? Repellendus ad, distinctio pariatur nobis atque libero in corporis esse voluptatibus hic est!Loremlo
+
+  </p>
+  <p class="pop2">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, eum eveniet! Voluptate amet architecto a nulla
+    doloribus? Repellendus ad, distinctio pariatur nobis atque libero in corporis esse voluptatibus hic est!Loremlo
+
+  </p>
+  <p class="pop3">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, eum eveniet! Voluptate amet architecto a nulla
+    doloribus? Repellendus ad, distinctio pariatur nobis atque libero in corporis esse voluptatibus hic est!Loremlo
+
+  </p>
+
+</p>
+</body>
+
+</html>
